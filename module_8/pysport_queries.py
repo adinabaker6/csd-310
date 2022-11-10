@@ -1,3 +1,10 @@
+"""
+    Title: pysports_queries.py
+    Author: Adina Baker
+    Date: Nov 10 2022
+    Description: Test program for executing queries against the pysports database.
+    
+    """
 import mysql.connector
 from mysql.connector import errorcode
 
